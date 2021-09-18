@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "4333e0462bfd5437",
+    "type": "split",
+    "children": [
+      {
+        "id": "1824096fb9201806",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f446eb9d20625b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea2f452aea2487f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc5a5d86d147f6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92a621edc58250d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#📥️/📜️",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffda079d2c56de26",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "f509b378dba75f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da8be515d3fe665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f2250f085be4007",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e2bfb16b8bb064f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe9c5327efe937fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bccc6a414f24f072",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5af4d96c79623c32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3500951a83d9734",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0ddc88e97957c46",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cde98e363318991",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5,
+    "collapsed": true
+  },
+  "active": "1824096fb9201806",
+  "lastOpenFiles": [
+    "Inbox/Untitled.md",
+    "Inbox/short note 2021-09-18.md",
+    "Utility/other/Без названия123i.md",
+    "Utility/other/Редактирование.md",
+    "Utility/other/daw.md",
+    "Utility/other/Jim.md",
+    "Utility/other/Tags.md",
+    "Utility/MOCs/call-центр от яндекс.md",
+    "2021-09-18.md",
+    "anki/english words cards.md"
+  ]
+}

@@ -1,0 +1,25 @@
+/** ________ 2.9.3 Input Links -- https://discord.com/channels/686053708261228577/707816848615407697/844751423253905458 */
+a.internal-link[data-link-type$="video" i]::before{
+  content: "🎥 "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="article" i]::before{
+  content: "📰️ "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="book" i]::before{
+  content: "📚 "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="paper" i]::before{
+  content: "📜️ "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="podcast" i]::before{
+  content: "🎧️ "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="tweet" i]::before{
+  content: "🐦️ "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="thought" i]::before{
+  content: "💭️ "attr(data-link-status)" "
+}
+a.internal-link[data-link-type$="person" i]::before{
+  content: "👤️ "attr(data-link-status)" "
+}

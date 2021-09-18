@@ -1,0 +1,106 @@
+{
+  "workspaces": {
+    "OwnWorkSpace": {
+      "main": {
+        "id": "94ca658be2370cb7",
+        "type": "split",
+        "children": [
+          {
+            "id": "18311a295dce58ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "82f1c5a99f1cfc8b",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ed032c3c88283f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8dba57cbb50c7af2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b4b94a57e1ab889c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 451
+      },
+      "right": {
+        "id": "73d48c257caa2c79",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b5f3629873bb210",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f48e472cf54e5bd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "94f790a40d031c14",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "aa6966b46c061183",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "18311a295dce58ec"
+    }
+  },
+  "active": "OwnWorkSpace"
+}

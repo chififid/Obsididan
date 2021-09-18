@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 25,
+  "cssTheme": "Dark Moss",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Bryans Gruvbox1",
+    "links",
+    "Bryans Gruvbox"
+  ],
+  "translucency": false,
+  "baseFontSizeAction": false
+}

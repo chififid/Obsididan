@@ -1,0 +1,11 @@
+{
+  "targetAttributes": [
+    "type",
+    "tags"
+  ],
+  "presetFields": [],
+  "displayFieldsInContextMenu": false,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "",
+  "getFromInlineField": false
+}

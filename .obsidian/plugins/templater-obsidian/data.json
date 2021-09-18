@@ -1,0 +1,14 @@
+{
+  "command_timeout": 5,
+  "template_folder": "Utility/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "syntax_highlighting": true
+}
