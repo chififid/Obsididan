@@ -1,18 +1,19 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Inbox/Crypto/attachs",
+  "attachmentFolderPath": "./attach",
   "alwaysUpdateLinks": true,
   "tabSize": 4,
   "trashOption": "local",
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "showFrontmatter": false,
   "showLineNumber": true,
-  "readableLineLength": true,
-  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
   "smartIndentList": true,
   "foldHeading": true,
   "useTab": true,
-  "lineWrap": true
+  "lineWrap": true,
+  "foldIndent": true
 }

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1824096fb9201806",
+        "id": "2a9a982a71397a06",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/School/Math/Индукция и неравенства 2021-10-15.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📥️/📜️",
-                "matchingCase": false,
+                "query": "ряда",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 814.4999980926514
   },
   "right": {
     "id": "f509b378dba75f33",
@@ -83,38 +86,42 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe9c5327efe937fe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Inbox/School/Math/Индукция и неравенства 2021-10-15.md"
               }
             }
           },
           {
-            "id": "bccc6a414f24f072",
+            "id": "685a06762ad8e646",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/School/Math/Индукция и неравенства 2021-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "41fb5aa8c10d82b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/School/Math/Индукция и неравенства 2021-10-15.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5af4d96c79623c32",
+            "id": "b03fa27ce18fa785",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -122,47 +129,32 @@
             }
           },
           {
-            "id": "f3500951a83d9734",
+            "id": "1db28c3801befcb0",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "f0ddc88e97957c46",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "3cde98e363318991",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
+    "width": 208.5,
     "collapsed": true
   },
-  "active": "1824096fb9201806",
+  "active": "2a9a982a71397a06",
   "lastOpenFiles": [
-    "Inbox/Untitled.md",
-    "Inbox/short note 2021-09-18.md",
-    "Utility/other/Без названия123i.md",
-    "Utility/other/Редактирование.md",
-    "Utility/other/daw.md",
-    "Utility/other/Jim.md",
-    "Utility/other/Tags.md",
-    "Utility/MOCs/call-центр от яндекс.md",
-    "2021-09-18.md",
-    "anki/english words cards.md"
+    "Inbox/School/Math/Индукция и неравенства 2021-10-15.md",
+    "Inbox/School/Math/Множества 2021-10-10.md",
+    "Inbox/School/Math/Индукция и делимость 2021-10-15.md",
+    "Inbox/School/Math/Индукция 2021-10-10.md",
+    "Inbox/School/Math/Перестановки на m мест 2021-10-10.md",
+    "Outbox/Math/Треугольник Паскаля формула нижнего ряда 2021-10-10.md",
+    "Inbox/School/Math/Сигма 2021-10-10.md",
+    "Utility/Templates/Words/дневник.md",
+    "Outbox/Math language/Использование 2021-10-15 2021-10-15.md",
+    "Inbox/School/Math/Умножение вектора на n 2021-10-11.md"
   ]
 }

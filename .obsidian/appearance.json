@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 25,
+  "baseFontSize": 27,
   "cssTheme": "Dark Moss",
   "theme": "obsidian",
   "enabledCssSnippets": [
@@ -8,5 +8,5 @@
     "Bryans Gruvbox"
   ],
   "translucency": false,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true
 }
