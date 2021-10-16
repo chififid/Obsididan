@@ -1,6 +1,6 @@
 ---
 type: paper
-tags: 📤/📜️ 🖼️
+tags: 📤/📜️/🩳 🖼️
 aliases:
   - landings
 ---
