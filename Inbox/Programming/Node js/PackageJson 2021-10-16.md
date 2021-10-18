@@ -16,9 +16,9 @@ aliases:
 - `Links:` [[Npm 2021-10-16|Пакетный менеджер npm]], [[Версии 2021-10-16|Версии пакетов npm]]
 - `Author:` 
 	- `Notable Authors:` 
-- `Keywords:` Node js, npm, зависисмости, пакеты, версии, проект.
-- `Specific Subject:` Утилиты
-- `General Subject:` Node js
+- `Keywords:` [[Node js 2021-10-18]], [[Npm]], [[Зависисмости]], [[Пакеты]], [[Версии]], [[Проект]]
+- `Specific Subject:` [[Утилиты]]
+- `General Subject:` [[Node js 2021-10-18]]
 - `Reviewed Date:` [[2021-10-16]]
 
 

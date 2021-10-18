@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9a982a71397a06",
+        "id": "3bf3bae7be5760dc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Programming/Node js/Импортирование ES 2021-10-16.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📥️",
+                "query": "tag:#📥️/📜️/🩳",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.49999809265137
+    "width": 324.49999809265137
   },
   "right": {
     "id": "f509b378dba75f33",
@@ -83,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Programming/Node js/Импортирование ES 2021-10-16.md"
+              }
             }
           },
           {
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Programming/Node js/Импортирование ES 2021-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Programming/Node js/Импортирование ES 2021-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,24 +135,60 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "9de6644270af09b0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/Programming/Node js/Импортирование ES 2021-10-16.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0.2,
+                  "nodeSizeMultiplier": 0.892274406332454,
+                  "lineSizeMultiplier": 1.28996306068602,
+                  "collapse-forces": false,
+                  "centerStrength": 0.600738786279683,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.430695722936454,
+                  "close": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 797.5000610351562
   },
-  "active": "2a9a982a71397a06",
+  "active": "3bf3bae7be5760dc",
   "lastOpenFiles": [
-    "Inbox/Programming/Node js/Npm 2021-10-16.md",
-    "Inbox/Programming/Node js/Импортирование 2021-10-16.md",
-    "Inbox/Programming/Node js/Версии 2021-10-16.md",
+    "Inbox/Programming/Node js/Импортирование ES 2021-10-16.md",
+    "Inbox/School/Math/Разложения кубов 2021-10-04.md",
+    "Inbox/Helth/Заболел 2021-10-13.md",
+    "Inbox/Helth/Бактериальные 2021-10-13.md",
+    "Inbox/School/Math/Индукция и делимость 2021-10-15.md",
+    "Inbox/School/Math/Задача отношения треугольника паскаля и сочетаниями 2021-10-10.md",
     "Inbox/Programming/Node js/Npx 2021-10-16.md",
-    "Inbox/Programming/Node js/PackageJson 2021-10-16.md",
-    "Outbox/Идеи.md",
-    "&.md",
-    "+.md",
-    "Outbox/Politics/Мои взгляды 2021-10-06.md",
-    "Outbox/Math language/Использование 2021-10-15 2021-10-15.md"
+    "Inbox/Programming/Node js/Node js 2021-10-18.md",
+    "Inbox/Programming/Node js/Импортирование CommonJS 2021-10-18.md",
+    "Inbox/Programming/Node js/PackageJson 2021-10-16.md"
   ]
 }

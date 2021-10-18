@@ -1,79 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#💊",
-      "color": {
-        "a": 1,
-        "rgb": 65463
-      }
-    },
-    {
-      "query": "tag:#🔢",
-      "color": {
-        "a": 1,
-        "rgb": 1114367
-      }
-    },
-    {
-      "query": "tag:#⚖️",
-      "color": {
-        "a": 1,
-        "rgb": 6262528
-      }
-    },
-    {
-      "query": "tag:#🖥️",
-      "color": {
-        "a": 1,
-        "rgb": 16514816
-      }
-    },
-    {
-      "query": "tag:#💎",
-      "color": {
-        "a": 1,
-        "rgb": 16753264
-      }
-    },
-    {
-      "query": "tag:#📤",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#🧠",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "path:/",
-      "color": {
-        "a": 1,
-        "rgb": 8741120
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.93588390501319,
-  "lineSizeMultiplier": 1.17412137203166,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.517214827851722,
-  "repelStrength": 20,
-  "linkStrength": 0.489055109448906,
-  "linkDistance": 500,
-  "scale": 0.2346870788094759,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4016151595359241,
   "close": false
 }
