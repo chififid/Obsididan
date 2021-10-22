@@ -7,7 +7,7 @@ cssclass:
 
 ## Metadata:
 
-- `Type:` [[Дневник]] 
+- `Type:` [[дневник]] 
 - `Reviewed Date:` [[<%tp.date.now()%>]]
 
 

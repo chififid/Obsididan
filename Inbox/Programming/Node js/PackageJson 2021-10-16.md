@@ -18,7 +18,7 @@ aliases:
 	- `Notable Authors:` 
 - `Keywords:` [[Node js 2021-10-18]], [[Npm]], [[Зависисмости]], [[Пакеты]], [[Версии]], [[Проект]]
 - `Specific Subject:` [[Утилиты]]
-- `General Subject:` [[Node js 2021-10-18]]
+- `General Subject:` [[Node js 2021-10-18|Node js]]
 - `Reviewed Date:` [[2021-10-16]]
 
 
