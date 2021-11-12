@@ -21,7 +21,6 @@ aliases:
 - `General Subject:` [[Node js 2021-10-18|Node js]]
 - `Reviewed Date:` [[2021-10-16]]
 
-
 ## Notes
 
 ### Идея
